@@ -1,0 +1,88 @@
+
+header ul{
+    list-style: none !important;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
+}
+header ul li{
+
+    padding: 10px !important;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none !important;
+    color: rgb(35, 125, 153) !important;
+    background-color: rgb(238, 232, 232) !important;
+    width: 100% !important;
+    text-align: center !important;
+}
+header img{
+    width: 100% !important;
+    height: 70% !important;
+    align-self: center !important;
+
+}
+img{
+    width: 270px !important;
+    height: 370px !important;
+}
+h1{
+    font-size: 60px !important;
+    color: rgb(51, 50, 66) !important;
+    font-family: 'Times New Roman', Times, serif !important;
+    text-align: center !important;
+}
+h2{
+    font-size: 30px !important;
+    color: rgb(51, 50, 66) !important;
+    font-family: 'Times New Roman', Times, serif !important;
+    text-align: center !important;
+    
+
+}
+h3{
+    font-size: 40px !important;
+    color: rgb(51, 50, 66) !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    text-align: center !important;
+    line-height: 100px !important;
+}
+h4{
+    font-size: 35px !important;
+    color: rgb(51, 50, 66) !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+    text-align: center !important;
+}
+p{
+    font-size: 22px !important;
+    color: rgb(77, 77, 77) !important;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+.contenedor{
+    display: flex !important;
+    flex-direction: row !important;
+    width: 100% !important; 
+    margin: 10px 0 10px 0 !important;
+}
+
+.cajita{
+    width: 100% !important;
+    height: 100% !important;
+    display: flex !important;
+    justify-content: center !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    padding: 10px !important;
+}
+.cajita img{
+    border-radius: 50% !important;
+}
+.cajita p{
+    font-size: 20px !important;
+}
+h6{
+  
+}
+
